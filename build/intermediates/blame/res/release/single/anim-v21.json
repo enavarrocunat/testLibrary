@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\anim-v21\\mtrl_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\anim-v21\\mtrl_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_in.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_linear_in.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_fast_out_slow_in.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\interpolator-v21\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\interpolator-v21\\mtrl_linear_out_slow_in.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
+    }
+]

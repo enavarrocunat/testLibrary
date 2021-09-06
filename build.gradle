@@ -1,0 +1,63 @@
+plugins {
+    id 'org.jetbrains.kotlin.multiplatform' version '1.5.10'
+    id 'com.android.library'
+    id 'maven-publish'
+}
+
+group = 'com.flit2go'
+version = '1.0.0'
+
+repositories {
+    google()
+    mavenCentral()
+    mavenLocal()
+}
+
+kotlin {
+    android()
+    iosX64('ios') {
+        binaries {
+            framework {
+                baseName = 'library'
+            }
+        }
+    }
+    sourceSets {
+        commonMain {
+
+        }
+        commonTest {
+            dependencies {
+                implementation kotlin('test')
+            }
+        }
+        androidMain {
+            dependencies {
+                implementation 'com.google.android.material:material:1.4.0'
+            }
+        }
+        androidTest {
+            dependencies {
+                implementation 'junit:junit:4.13.2'
+            }
+        }
+        iosMain {
+
+        }
+        iosTest {
+
+        }
+    }
+}
+
+android {
+    compileSdkVersion 30
+    sourceSets.main.manifest.srcFile('src/androidMain/AndroidManifest.xml')
+    defaultConfig {
+        minSdkVersion 24
+        targetSdkVersion 30
+    }
+    buildFeatures {
+        viewBinding true
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_start.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\xml\\standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_top_start.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\xml\\standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\xml\\standalone_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_gravity_bottom_end.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\xml\\standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\xml\\standalone_badge_offset.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\82ac095d007508429fec8d4f64069959\\transformed\\material-1.4.0\\res\\xml\\standalone_badge_offset.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\65d67af1fe8c6134c8b74f95aa9d5421\\transformed\\core-1.5.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\65d67af1fe8c6134c8b74f95aa9d5421\\transformed\\core-1.5.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\65d67af1fe8c6134c8b74f95aa9d5421\\transformed\\core-1.5.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\65d67af1fe8c6134c8b74f95aa9d5421\\transformed\\core-1.5.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

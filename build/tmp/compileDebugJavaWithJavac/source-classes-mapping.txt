@@ -1,0 +1,2 @@
+com/flit2go/library/BuildConfig.java
+ com.flit2go.library.BuildConfig

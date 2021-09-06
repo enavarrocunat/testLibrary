@@ -1,0 +1,161 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.flit2go",
+    "module": "testLibrary",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.9",
+      "buildId": "go4bhnrabjhq3fj3zudvkv4mr4"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadataApiElements",
+      "attributes": {
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.5.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "testLibrary-metadata-1.0.0-all.jar",
+          "url": "testLibrary-1.0.0-all.jar",
+          "size": 3318,
+          "sha512": "1aefb2529e48a06627b56333498decafe2317f2a5f67066ddda4a1c0b491e321044508cfa9031cbf9315b2d0d4e539da93def46bf919e18fe008a0f619fab300",
+          "sha256": "d822aac2816fe82b2f0fb96bb728833f57f812c6fbb1ef2eb2968f658738aa69",
+          "sha1": "f505221109d3d2dadefcf393172f9ecbe51eb51b",
+          "md5": "7efb1df3ec89b5a85fd211b7c3ff13eb"
+        }
+      ]
+    },
+    {
+      "name": "commonMainMetadataElements",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.5.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "testLibrary-1.0.0.jar",
+          "url": "testLibrary-1.0.0.jar",
+          "size": 1354,
+          "sha512": "38090b4c21492a6a1f0cf90c700a12d82b2e216accc596a03f265d0bccc9d03cc5cb7677c11531dc09522e683b71c223d5974a0d41066bc66950e045d0cef650",
+          "sha256": "0cc64e66a2fd6ebcbb64fd490e84ed5d6c0f09823abf8c26f43cf5ade32f5677",
+          "sha1": "5f7c4ef5aa8833e01e778f292abfd427c3f283fc",
+          "md5": "fac1e478be08b3f8e78fae04ee97b637"
+        }
+      ]
+    },
+    {
+      "name": "debugApiElements-published",
+      "attributes": {
+        "com.android.build.api.attributes.BuildTypeAttr": "debug",
+        "com.android.build.api.attributes.VariantAttr": "debug",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "available-at": {
+        "url": "../../testLibrary-android/1.0.0/testLibrary-android-1.0.0.module",
+        "group": "com.flit2go",
+        "module": "testLibrary-android",
+        "version": "1.0.0"
+      }
+    },
+    {
+      "name": "debugRuntimeElements-published",
+      "attributes": {
+        "com.android.build.api.attributes.BuildTypeAttr": "debug",
+        "com.android.build.api.attributes.VariantAttr": "debug",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "available-at": {
+        "url": "../../testLibrary-android/1.0.0/testLibrary-android-1.0.0.module",
+        "group": "com.flit2go",
+        "module": "testLibrary-android",
+        "version": "1.0.0"
+      }
+    },
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "com.android.build.api.attributes.BuildTypeAttr": "release",
+        "com.android.build.api.attributes.VariantAttr": "release",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "available-at": {
+        "url": "../../testLibrary-android/1.0.0/testLibrary-android-1.0.0.module",
+        "group": "com.flit2go",
+        "module": "testLibrary-android",
+        "version": "1.0.0"
+      }
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "com.android.build.api.attributes.BuildTypeAttr": "release",
+        "com.android.build.api.attributes.VariantAttr": "release",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "available-at": {
+        "url": "../../testLibrary-android/1.0.0/testLibrary-android-1.0.0.module",
+        "group": "com.flit2go",
+        "module": "testLibrary-android",
+        "version": "1.0.0"
+      }
+    },
+    {
+      "name": "iosApiElements-published",
+      "attributes": {
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../testLibrary-ios/1.0.0/testLibrary-ios-1.0.0.module",
+        "group": "com.flit2go",
+        "module": "testLibrary-ios",
+        "version": "1.0.0"
+      }
+    },
+    {
+      "name": "iosMetadataElements-published",
+      "attributes": {
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_x64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "available-at": {
+        "url": "../../testLibrary-ios/1.0.0/testLibrary-ios-1.0.0.module",
+        "group": "com.flit2go",
+        "module": "testLibrary-ios",
+        "version": "1.0.0"
+      }
+    }
+  ]
+}

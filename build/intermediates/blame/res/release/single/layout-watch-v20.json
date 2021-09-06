@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\f4561b8302e98e10fe251f4db8ff3c63\\transformed\\appcompat-1.2.0\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\EnriqueDavidNavarroC\\IdeaProjects\\testLibrary\\build\\intermediates\\res\\merged\\release\\layout-watch-v20\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\EnriqueDavidNavarroC\\.gradle\\caches\\transforms-3\\f4561b8302e98e10fe251f4db8ff3c63\\transformed\\appcompat-1.2.0\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    }
+]
